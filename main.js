@@ -81,6 +81,3 @@ const sendEmail = (e) => {
     }
 }
 contactForm.addEventListener('submit', sendEmail)
-
-
-console.log("das")
